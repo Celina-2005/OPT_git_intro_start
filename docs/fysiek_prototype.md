@@ -6,6 +6,10 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 ## wiring diagrama
 
 <sectie>
-Yo
+<elementen>
+* hoi
+* yo
+* hey
 
+</elementen>
 </sectie>
