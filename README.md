@@ -6,6 +6,10 @@ We bouwen de repo op om arduino projecten en documentatie bij te houden
 
 ![arduino](imgs/OIP.jpg)
 
+# Content table
+[Prototype](./docs/fysiek_prototype.md)
+
+
 ## Contributors
 - Rootsaert S.
 - De Bleser A.
