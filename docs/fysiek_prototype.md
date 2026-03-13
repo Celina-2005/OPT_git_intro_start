@@ -5,11 +5,12 @@ In dit bestand kun je meer info vinden over hoe alles te verbinden.
 
 ## wiring diagrama
 
-<sectie>
-<elementen>
+<details>
+<summary>Elementen</summary>
+
 * hoi
 * yo
 * hey
 
-</elementen>
-</sectie>
+
+</details>
