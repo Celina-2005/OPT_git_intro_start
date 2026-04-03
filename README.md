@@ -4,7 +4,7 @@ Tijdens de opdracht in opkomende technologiën wordt gewerkt aan een semi functi
 
 
 # Content table
-[Algemene werking]()
+[Algemene werking](./docs/Algemene werking.md)
 [Prototype](./docs/fysiek_prototype.md)
 
 ## Contributors
