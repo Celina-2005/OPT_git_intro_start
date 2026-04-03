@@ -1,14 +1,11 @@
-# git_intro
+# Wobble opkomende technologiën
 
-repository om met git te leren werken
+Tijdens de opdracht in opkomende technologiën wordt gewerkt aan een semi functioneel prototype van Wobble, dat behandelt wordt tijdens project gebruiksgericht ontwerp.
 
-We bouwen de repo op om arduino projecten en documentatie bij te houden
-
-![arduino](imgs/OIP.jpg)
 
 # Content table
+[Algemene werking]()
 [Prototype](./docs/fysiek_prototype.md)
-
 
 ## Contributors
 - Rootsaert S.

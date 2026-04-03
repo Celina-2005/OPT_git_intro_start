@@ -1,16 +1,13 @@
 # Fysiek prototype
-
-In dit bestand kun je meer info vinden over hoe alles te verbinden.
+In dit bestand wordt uitgelegd hoe het prototype fysiek in elkaar zit.
 
 
 ## wiring diagrama
 
 <details>
-<summary>Elementen</summary>
-
-* hoi
-* yo
-* hey
-
-
+<summary>Onderdelen</summary>
+- Arduino Uno
+-
+-
+-
 </details>
