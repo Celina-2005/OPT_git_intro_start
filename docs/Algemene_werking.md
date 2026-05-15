@@ -20,6 +20,7 @@ Hierdoor ontstaat een directe koppeling tussen fysieke interactie en visuele fee
 
 <p align="center">
   <img src="../imgs/Flowchart.png" width="750">
+  <br>
   Figuur 1. Flowchart
 </p>
 
