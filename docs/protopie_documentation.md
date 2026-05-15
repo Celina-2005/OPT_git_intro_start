@@ -42,7 +42,8 @@ if ((50 < fsrwaarde) && (fsrwaarde < 400)){
 
 
 <p align="center">
-  <img src="[IMAGE_PLACEHOLDER]" width="750">
+  <img src="../imgs/protopie_arduino_opstelling.jpg" height="350">
+  <br>
   Figuur 1. Arduino schakeling met FSR sensor
 </p>
 
@@ -68,12 +69,22 @@ reorder 'NEUTRAL' : bring to front, delay 0
 - Overgangen zijn instant (delay = 0)
 
 <p align="center">
-  <img src="[IMAGE_PLACEHOLDER]" width="750">
+  <img src="../imgs/protopie_layers.png" width="500">
+  <br>
   Figuur 2. Protopie layers (SAD / HAPPY / NEUTRAL stacking)
 </p>
 
 <p align="center">
+  <img src="../imgs/protopie_arduino_data_1.jpg" height="350">
+  <img src="../imgs/protopie_arduino_data_2.jpg" height="350">
+  <br>
+  Figuur 3. Data Output
+</p>
+
+
+<p align="center">
   <img src="[VIDEO_PLACEHOLDER]" width="750">
+  <br>
   Video 1. Emotie switching demo
 </p>
 
@@ -115,13 +126,10 @@ opacity 'square3' (green) : f(x) = pressure_green
 ```
 
 <p align="center">
-  <img src="[IMAGE_PLACEHOLDER]" width="750">
+  <img src="../imgs/protopie_colour_layers_unstacked_2.png" height="350">
+  <img src="../imgs/protopie_colour_layers_unstacked.png" height="350">
+  <br>
   Figuur 3. Slider interface met kleurgradient
-</p>
-
-<p align="center">
-  <img src="[IMAGE_PLACEHOLDER]" width="750">
-  Figuur 4. Layer stack van achtergrond (3 kleuren)
 </p>
 
 
@@ -160,12 +168,9 @@ move 'knob' :
 - Y-as is gefixeerd buiten zicht (-70) om slider “virtueel” te laten bewegen
 - X-as bepaalt volledige interactiepositie
 
-<p align="center">
-  <img src="[IMAGE_PLACEHOLDER]" width="750">
-  Figuur 5. Live Arduino, naar Protopie data flow
-</p>
 
 <p align="center">
   <img src="[VIDEO_PLACEHOLDER]" width="750">
-  Video 2. Full System Interaction Demo
+  <br>
+  Video 2. Colour Changing
 </p>
