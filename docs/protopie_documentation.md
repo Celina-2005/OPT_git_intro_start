@@ -81,10 +81,9 @@ reorder 'NEUTRAL' : bring to front, delay 0
   Figuur 3. Data Output
 </p>
 
+<video src="https://github.com/user-attachments/assets/d5f83468-3ba9-43fb-b24b-7cfab7c2b730" controls></video>
 
 <p align="center">
-  <img src="[VIDEO_PLACEHOLDER]" width="750">
-  <br>
   Video 1. Emotie switching demo
 </p>
 
@@ -168,9 +167,9 @@ move 'knob' :
 - Y-as is gefixeerd buiten zicht (-70) om slider “virtueel” te laten bewegen
 - X-as bepaalt volledige interactiepositie
 
+<video src="https://github.com/user-attachments/assets/45884075-d0a9-4c5b-8ef7-bb7d3babab93" controls></video>
 
 <p align="center">
-  <img src="[VIDEO_PLACEHOLDER]" width="750">
-  <br>
   Video 2. Colour Changing
 </p>
+
