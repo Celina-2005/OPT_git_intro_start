@@ -13,6 +13,7 @@ Binnen het project Opkomende Technologieën werd verder gewerkt op een bestaand 
 
 <p align="center">
   <img src="imgs/WobbleLogo.png" width="750">
+  Figuur 1. Logo Wobble
 </p>
 
 Het project onderzoekt hoe een fysieke input via een druksensor kan worden vertaald naar zowel een motorische output als een visuele interface op een extern scherm. Hiervoor werd een systeem opgebouwd waarbij een Force Sensitive Resistor (FSR) waarden doorstuurt naar Arduino, waarna deze informatie via serial communication wordt verwerkt in Protopie Connect.
