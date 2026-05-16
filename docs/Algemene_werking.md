@@ -4,14 +4,14 @@ In dit bestand wordt uitgelegd hoe het project algemeen te werk gaat.
 **Auteur(s) :**
 - De Bleser, Axelle; Rootsaert, Selena
 
-Binnen dit project werd voornamelijk gewerkt op:
+Binnen dit project werd voornamelijk gewerkt op :
 - de visuele interface van Wobble,
 - de integratie van een motorisch component,
 - communicatie tussen Arduino en Protopie.
 
 Het systeem werkt op basis van een druksensor (FSR). Wanneer een gebruiker Wobble aanraakt, leest Arduino een drukwaarde uit. Deze waarde wordt vervolgens doorgestuurd naar Protopie Connect, waarna de interface op een extern scherm (gsm) reageert.
 
-De interface verandert afhankelijk van de hoeveelheid druk:
+De interface verandert afhankelijk van de hoeveelheid druk :
 - geen contact → gele achtergrond + neutraal gezicht,
 - lichte aanraking (zoals aaien of knuffelen) → groene achtergrond + blij gezicht,
 - harde aanraking → rode achtergrond + boos/verdrietig gezicht.
@@ -24,9 +24,9 @@ Hierdoor ontstaat een directe koppeling tussen fysieke interactie en visuele fee
   Figuur 1. Flowchart
 </p>
 
-Daarnaast werd ook een motorisch component toegevoegd. Een drukknop bepaalt of Wobble actief staat. De motor wordt enkel geactiveerd wanneer:
+Daarnaast werd ook een motorisch component toegevoegd. Een drukknop bepaalt of Wobble actief staat. De motor wordt enkel geactiveerd wanneer :
 1. Wobble aanstaat via de drukknop,
-2. er aanraking wordt gedetecteerd via de druksensor.
+2. Er aanraking wordt gedetecteerd via de druksensor.
 
 Zo wordt vermeden dat de motor constant actief blijft.
 
@@ -34,4 +34,5 @@ Zo wordt vermeden dat de motor constant actief blijft.
 
 
 ## Diagram
-![alt text](../imgs/Diagram.png)
+
+<img src="../imgs/Diagram.png" width="750">

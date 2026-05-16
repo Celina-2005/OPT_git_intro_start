@@ -6,9 +6,9 @@ In dit bestand wordt uitgelegd hoe het prototype fysiek in elkaar zit.
 
 <details>
 <summary>Onderdelen</summary>
-- Arduino Uno
--
--
--
+- Arduino Uno <br>
+- f 
+- 
+- 
 </details>
 

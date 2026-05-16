@@ -13,6 +13,7 @@ Binnen het project Opkomende Technologieën werd verder gewerkt op een bestaand 
 
 <p align="center">
   <img src="imgs/WobbleLogo.png" width="750">
+  <br>
   Figuur 1. Logo Wobble
 </p>
 
@@ -25,7 +26,7 @@ Afhankelijk van de uitgelezen drukwaarde verandert de interface van toestand :
 
 Daarnaast werd een fysieke drukknop toegevoegd om het motorsysteem gecontroleerd te activeren of uit te schakelen.
 
-Binnen dit project werd voornamelijk gefocust o :
+Binnen dit project werd voornamelijk gefocust op :
 - hardwarevalidatie,
 - logische programmatie,
 - serial communication,
