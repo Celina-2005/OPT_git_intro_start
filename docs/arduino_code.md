@@ -1,5 +1,3 @@
-# Arduino Code
-
 # Arduino Code Documentatie
 
 **Auteur(s) :**
