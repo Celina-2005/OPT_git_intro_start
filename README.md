@@ -4,7 +4,7 @@
 **Contributors**
 - Name(s) : De Bleser, Axelle; Rootsaert, Selena
 - Course : Opkomende Technologieën
-- Academicyear : 2025-2026
+- Academic year : 2025-2026
 - Project Supervisor : Prof. Devriese, Wouter
 
 ## Abstract
@@ -24,7 +24,7 @@ Afhankelijk van de uitgelezen drukwaarde verandert de interface van toestand :
 - blij,
 - verdrietig.
 
-Daarnaast werd een fysieke drukknop toegevoegd om het motorsysteem gecontroleerd te activeren of uit te schakelen.
+Daarnaast werd een fysieke drukknop toegevoegd om het motorsysteem gecontroleerd te activeren. Om het systeem uit te schakelen werd gebruik gemaakt van de force sensitive resistor om te registreren of Wobble nog vastgehouden wordt door de gebruiker.
 
 Binnen dit project werd voornamelijk gefocust op :
 - hardwarevalidatie,
