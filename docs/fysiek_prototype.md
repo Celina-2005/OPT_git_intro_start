@@ -17,6 +17,6 @@ In dit bestand wordt uitgelegd hoe het prototype fysiek in elkaar zit.
 <p align="center">
   <img src="../imgs/circuit.jpeg"width="750">
   <br>
-  Figuur 1. functieschema
+  Figuur 1. wiring diagram
 </p>
 
