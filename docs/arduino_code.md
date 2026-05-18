@@ -1,7 +1,5 @@
 # Arduino Code Documentatie
 
-**Auteur(s) :**
-- De Bleser, Axelle; Rootsaert, Selena
 
 ## 1. Inleiding
 Initieel werden alle onderdelen individueel getest. Dit werd gedaan door een kleine code te schrijven om de waarde uit te lezen en te printen op de seriële monitor. 

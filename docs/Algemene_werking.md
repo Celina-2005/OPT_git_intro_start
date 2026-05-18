@@ -1,8 +1,7 @@
 # Algemene werking
 In dit bestand wordt uitgelegd hoe het project algemeen te werk gaat.
 
-**Auteur(s) :**
-- De Bleser, Axelle; Rootsaert, Selena
+
 
 Binnen dit project werd voornamelijk gewerkt op :
 - de visuele interface van Wobble,

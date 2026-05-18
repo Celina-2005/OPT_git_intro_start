@@ -1,8 +1,6 @@
 # Protopie Documentation
 *Visuele logica en Arduino-integratie*
 
-**Auteur(s) :**
-- Rootsaert, Selena
 
 ## 1. Overzicht systeemwerking
 
