@@ -98,5 +98,12 @@ void loop() {
 
 </details>
 
+## 2. Werking
+
+<p align="center">
+  <img src="imgs/functieschema.png"width="750">
+  <br>
+  Figuur 1. functieschema
+</p>
 
 
