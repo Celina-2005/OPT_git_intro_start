@@ -4,7 +4,10 @@
 - De Bleser, Axelle; Rootsaert, Selena
 
 ## 1. Inleiding
+Initieel werden alle onderdelen individueel getest. Dit werd gedaan door een kleine code te schrijven om de waarde uit te lezen en te printen op de seriële monitor. 
 
+Nadat alle codes van de onderdelen duidelijk waren werd de volledige code van het project geschreven.
+Deze code is hieronder te vinden.
 
 
 <details>
@@ -101,9 +104,10 @@ void loop() {
 ## 2. Werking
 
 <p align="center">
-  <img src="imgs/functieschema.png"width="750">
+  <img src="../imgs/functieschema.png"width="750">
   <br>
   Figuur 1. functieschema
 </p>
 
 
+In dit functieschema is de volledige werking van de code weergegeven.
