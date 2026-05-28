@@ -32,6 +32,11 @@ Zo wordt vermeden dat de motor constant actief blijft.
 
 
 
-## Diagram
-
+## Originele Diagram
+<p align="center">
 <img src="../imgs/Diagram.png" width="750">
+Figuur 2. Originele diagram
+</p>
+
+Initieel was dit diagram ons eerste idee voor het project. Wegens de vele bedrading bij de matrix werd het scherm vervangen door het scherm met protopie. Er werd bovenop de gezichtsuitdrukkingen ook een kleurenovergang gemaakt om de feedback visueler voor te stellen.
+Omdat de figma app voor project gebruiksgericht volledig overbodig was hadden we ons meer gefocust op het scherm met protopie en hadden we besloten het scherm weg te laten.
