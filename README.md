@@ -44,6 +44,19 @@ Het gewenste resultaat werd bekomen, de motor kan geactiveerd worden wanneer het
 Dit resultaat is wat gewenst werd in het begin.
 
 
+
+
+<video src="https://github.com/user-attachments/assets/2860451c-891b-467b-a465-83e72847392c" controls></video>
+
+<p align="center">
+  Video 1. Emotie switching demo
+</p>
+
+
+
+
+
+
 ## Reflectie
 Het was een uitdaging om ons project te koppelen aan dat van project gebruiksgericht ontwerp omdat de nodige prototypes voor project gebruiksgericht ontwerp simpeler waren met arduino.
 
