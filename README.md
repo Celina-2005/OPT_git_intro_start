@@ -44,4 +44,8 @@ Binnen dit project werd voornamelijk gefocust op :
 
 
 ## Reflectie
+Het was een uitdaging om ons project te koppelen aan dat van project gebruiksgericht ontwerp omdat de nodige prototypes voor project gebruiksgericht ontwerp simpeler waren met arduino.
 
+Om wat extra moeilijkheid toe te voegen werd de druksensor en het protopie programma toegevoegd. Deze twee met elkaar connecteren was het moeilijkste deel. Uiteindelijk zijn we blij met ons eindresultaat. Ook de kleurovergang op protopie was een uitdaging.
+
+We hadden ervoor gekozen om geen omhulsel te maken omdat we ons wilden focussen op de werking, indien we meer tijd hadden konden we toch een behuizing voorzien. 
