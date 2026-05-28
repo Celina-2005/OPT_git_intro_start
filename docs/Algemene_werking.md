@@ -1,7 +1,8 @@
 # Algemene werking
 In dit bestand wordt uitgelegd hoe het project algemeen te werk gaat.
 
-
+**Auteur(s) :**
+- De Bleser, Axelle; Rootsaert, Selena
 
 Binnen dit project werd voornamelijk gewerkt op :
 - de visuele interface van Wobble,
@@ -64,8 +65,9 @@ Zo wordt vermeden dat de motor constant actief blijft.
 
 ## Originele Diagram
 <p align="center">
-<img src="../imgs/Diagram.png" width="750">
-Figuur 2. Originele diagram
+  <img src="../imgs/Diagram.png" width="750">
+  <br>
+  Figuur 2. Originele diagram
 </p>
 
 Initieel was dit diagram ons eerste idee voor het project. Wegens de vele bedrading bij de matrix werd het scherm vervangen door het scherm met protopie. Er werd bovenop de gezichtsuitdrukkingen ook een kleurenovergang gemaakt om de feedback visueler voor te stellen.

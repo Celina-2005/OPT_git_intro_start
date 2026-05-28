@@ -1,9 +1,10 @@
 # Fysiek prototype
 In dit bestand wordt uitgelegd hoe het prototype fysiek in elkaar zit.
 
+**Auteur(s) :**
+- De Bleser, Axelle; Rootsaert, Selena
 
-## wiring diagram
-
+## Wiring Diagram
 
 ##### Onderdelen
 - Arduino Uno
