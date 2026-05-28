@@ -40,14 +40,7 @@ Binnen dit project werd voornamelijk gefocust op :
 4. [Protopie Documentation](docs/protopie_documentation.md)
 
 ## Resultaat
-<p align="center">
-<video src="imgs/Resultaat.mp4" width="320" height="240" controls></video>
-</p>
 
-
-<p align="center">
-  Video 1. Eindresultaat
-</p>
 
 
 ## Reflectie
