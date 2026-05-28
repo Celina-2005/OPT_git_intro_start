@@ -17,10 +17,40 @@ De interface verandert afhankelijk van de hoeveelheid druk :
 
 Hierdoor ontstaat een directe koppeling tussen fysieke interactie en visuele feedback.
 
+```mermaid
+
+flowchart LR
+    B["Arduino leest drukwaarde uit"] -- Seriële communicatie --> C["Protopie Connect"]
+    C -- Update interface --> J{"Drukwaarde"}
+    E["Drukknop ingedrukt"] -- Ja --> G{"Gebruiker raakt Wobble aan? (druksensor)"}
+    G -- Ja --> H["Motor geactiveerd"]
+    H -- combinatie --> B
+    G -- Nee --> I["Motor uit"]
+    E -- Nee --> I
+    J -- Geen contact --> K["Gele achtergrond + neutraal gezicht"]
+    J -- Lichte aanraking --> L["Groene achtergrond + blij gezicht"]
+    J -- Harde aanraking --> M["Rode achtergrond + boos/verdrietig gezicht"]
+    K --> D["Extern scherm"]
+    L --> D
+    M --> D
+
+    style B fill:#ecfeff,stroke:#22d3ee
+    style C fill:#f5f3ff,stroke:#a78bfa
+    style J fill:#fef2f2,stroke:#f87171
+    style E fill:#f0fdf4,stroke:#4ade80
+    style G fill:#fef2f2,stroke:#f87171
+    style H fill:#fdf4ff,stroke:#e879f9
+    style I fill:#eef2ff,stroke:#818cf8
+    style K fill:#fefce8,stroke:#facc15
+    style L fill:#f0fdf4,stroke:#4ade80
+    style M fill:#fef2f2,stroke:#f87171
+    style D fill:#fff7ed,stroke:#fb923c
+
+```
+
+
 <p align="center">
-  <img src="../imgs/Flowchart.png" width="750">
-  <br>
-  Figuur 1. Flowchart
+    Figuur 1. Flowchart
 </p>
 
 Daarnaast werd ook een motorisch component toegevoegd. Een drukknop bepaalt of Wobble actief staat. De motor wordt enkel geactiveerd wanneer :
