@@ -2,7 +2,7 @@
 In dit bestand wordt uitgelegd hoe het prototype fysiek in elkaar zit.
 
 **Auteur(s) :**
-- De Bleser, Axelle; Rootsaert, Selena
+- De Bleser, Axelle
 
 ## Wiring Diagram
 
