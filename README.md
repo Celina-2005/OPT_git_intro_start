@@ -49,7 +49,7 @@ Dit resultaat is wat gewenst werd in het begin.
 <video src="https://github.com/user-attachments/assets/2860451c-891b-467b-a465-83e72847392c" controls></video>
 
 <p align="center">
-  Video 1. Emotie switching demo
+  Video 1. Finale resultaat
 </p>
 
 
