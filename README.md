@@ -40,7 +40,8 @@ Binnen dit project werd voornamelijk gefocust op :
 4. [Protopie Documentation](docs/protopie_documentation.md)
 
 ## Resultaat
-
+Het gewenste resultaat werd bekomen, de motor kan geactiveerd worden wanneer het prototype aangeraakt wordt en indien de motor geactiveerd wordt met een knop. De emoties van Wobble worden aan de hand van de druksensor weergegeven met een mooie kleurovergang. De motor ligt stil zodra de druksensor niet meer aangeraakt wordt.
+Dit resultaat is wat gewenst werd in het begin.
 
 
 ## Reflectie
